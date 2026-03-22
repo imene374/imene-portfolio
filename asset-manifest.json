@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/imene-portfolio/static/css/main.01264269.css",
-    "main.js": "/imene-portfolio/static/js/main.33b30c22.js",
+    "main.js": "/imene-portfolio/static/js/main.64929cfe.js",
     "static/js/453.e221c6cf.chunk.js": "/imene-portfolio/static/js/453.e221c6cf.chunk.js",
     "index.html": "/imene-portfolio/index.html",
     "main.01264269.css.map": "/imene-portfolio/static/css/main.01264269.css.map",
-    "main.33b30c22.js.map": "/imene-portfolio/static/js/main.33b30c22.js.map",
+    "main.64929cfe.js.map": "/imene-portfolio/static/js/main.64929cfe.js.map",
     "453.e221c6cf.chunk.js.map": "/imene-portfolio/static/js/453.e221c6cf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.01264269.css",
-    "static/js/main.33b30c22.js"
+    "static/js/main.64929cfe.js"
   ]
 }
