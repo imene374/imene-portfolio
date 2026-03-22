@@ -1,23 +1,24 @@
-import logo from './logo.svg';
 import './App.css';
-
+import About from './About';
+import Services from './Services';
+import Projects from './Projects';
+import Contact from './Contact';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+      {/* هنا سنضع كل الـ Sections الخاصة بنا */}
+      <nav className="navbar">
+        <h1>Imene Portfolio</h1>
+      </nav>
+
+      <header className="hero-section">
+        <h2>YAHIAOUI IMENE</h2>
+        <p>Master 1 HPC Student | Full-stack Developer</p>
       </header>
+      <About />  {/* appeler le code de fichier About ici   */}
+      <Services />
+      <Projects />
+      <Contact  />
     </div>
   );
 }
